@@ -1,0 +1,13 @@
+langchain_google_genai
+langchain_text_splitters
+langchain_community
+langchain_groq
+flask
+flask_cors
+chromadb
+langchain_core
+bs4
+langchain
+tiktoken
+langgraph
+typing
